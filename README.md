@@ -1,4 +1,4 @@
-# QSTN + Solana Network - work in progress
+# QSTN + NEAR Network - work in progress
 
 <p align="center">
   <a href="https://qstn.us/"><img src="https://qstn.us/icon-256x256.png" alt="QSTN Marketplace"></a>
@@ -107,7 +107,7 @@ emergency_withdraw(amount: NearToken, account_id: AccountId)
 
 **Deploying the Contracts**
 
-Follow these steps to deploy the contracts on the Solana blockchain:
+Follow these steps to deploy the contracts on the NEAR blockchain:
 
 ```bash
 near deploy --wasmFile contract.wasm --accountId <your_account>
@@ -179,7 +179,7 @@ emergency_withdraw(amount: NearToken, account_id: AccountId)
 
 **Deploying the Contracts**
 
-Follow these steps to deploy the contracts on the Solana blockchain:
+Follow these steps to deploy the contracts on the NEAR blockchain:
 
 ```bash
 near deploy --wasmFile contract.wasm --accountId <your_account>
